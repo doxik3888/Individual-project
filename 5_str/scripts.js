@@ -1,6 +1,6 @@
 let btn_1 = document.getElementById("1")
 btn_1.addEventListener("click", () => {
-    location.href = "../main/index.html"
+    location.href = "../index.html"
 })
 let btn_2 = document.getElementById("2")
 btn_2.addEventListener("click", () => {
