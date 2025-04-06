@@ -7,7 +7,7 @@ let bookmark_6 = document.querySelector(".bookmark-6")
 
 let btn_1 = document.getElementById("1")
 btn_1.addEventListener("click", () => {
-    location.href = "../index.html"
+    location.href = "../main/index.html"
 })
 let btn_4 = document.getElementById("4")
 btn_4.addEventListener("click", () => {
